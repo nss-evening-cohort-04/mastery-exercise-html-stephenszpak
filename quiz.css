@@ -1,0 +1,42 @@
+body {
+	border-style: solid;
+	border-color: lightblue;
+}
+
+.hone {
+	border-style: dotted;
+	border-color: lightgray;
+	text-align: center;
+}
+
+/*.description {
+	width: 300px;
+}*/
+
+.img {
+	width:425px;
+	height:228px;
+	align-items: center;
+}
+
+.footer {
+	font-size: 12px;
+}
+
+.artione {
+	padding: 10px;
+	display: inline-block;
+	float: left;
+	width: 30%;
+}
+
+.artitwo {
+	padding: 10px;
+	display: inline-block;
+	float: left;
+	width: 30%;
+}
+
+.availability {
+	background-color: gray;
+}
