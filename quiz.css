@@ -1,6 +1,5 @@
 body {
-	border-style: solid;
-	border-color: lightblue;
+	font-family: "arial";
 }
 
 .hone {
@@ -13,30 +12,60 @@ body {
 	width: 300px;
 }*/
 
+.sect {
+	text-align: center;
+}
+
 .img {
-	width:425px;
+	width:300px;
 	height:228px;
-	align-items: center;
+}
+
+.ulspec {
+	list-style-type: none;
+	font-weight: bold;
+}
+
+.ulprice {
+	list-style-type: none;
+	font-weight: bold;
 }
 
 .footer {
 	font-size: 12px;
 }
 
-.artione {
-	padding: 10px;
+.arti {
+	border-style: solid;
+	border-color: lightblue;
+
 	display: inline-block;
 	float: left;
 	width: 30%;
+	margin: 10px;
 }
 
-.artitwo {
+/*.artitwo {
+	border-style: solid;
+	border-color: lightblue;
 	padding: 10px;
 	display: inline-block;
 	float: left;
 	width: 30%;
+	margin: 10px;
 }
+
+.artithree {
+	border-style: solid;
+	border-color: lightblue;
+	padding: 10px;
+	display: inline-block;
+	float: left;
+	width: 30%;
+	margin: 10px;
+}*/
 
 .availability {
-	background-color: gray;
+	color: yellow;
+	background-color: darkgrey;
 }
