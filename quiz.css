@@ -1,0 +1,47 @@
+body {
+	font-family: "arial";
+}
+
+.hone {
+	border-style: dotted;
+	border-color: lightgray;
+	text-align: center;
+}
+
+
+.sect {
+	text-align: center;
+}
+
+.img {
+	width:75%;
+	height:75%;
+}
+
+.ulspec {
+	list-style-type: none;
+	font-weight: bold;
+}
+
+.ulprice {
+	list-style-type: none;
+	font-weight: bold;
+}
+
+.footer {
+	font-size: 12px;
+}
+
+.arti {
+	border-style: solid;
+	border-color: lightblue;
+	display: inline-block;
+	float: left;
+	width: 30%;
+	margin: 10px;
+}
+
+.availability {
+	color: yellow;
+	background-color: darkgrey;
+}
